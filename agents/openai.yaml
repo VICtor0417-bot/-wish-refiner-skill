@@ -1,0 +1,4 @@
+interface:
+  display_name: "愿望精确改写"
+  short_description: "把口语愿望改写为严谨祈愿文本，明确结果、期限、代价与防歧义边界"
+  default_prompt: "请使用 $wish-refiner，把我的愿望改写成精确、严密、可直接用于许愿的中文文本。"
